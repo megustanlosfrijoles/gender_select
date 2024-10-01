@@ -1,0 +1,15 @@
+# textdomain: gender_select
+Select Gender=Seleccionar género
+@1@n(Selected)=@1@n(Seleccionado)
+Male=Masculino
+Female=Femenino
+Use gender-neutral pronouns=Usar pronombres de género neutros
+ERROR=ERROR
+Confirm=Confirmar
+Gender set.=Género establecido
+Set the gender and the preferred pronoun=Establece el género y el pronombre preferido
+Dialog shown.=Cuadro de diálogo mostrado
+Get the gender information of a player=Obten la información de género de un/una/une jugador/a/e
+Could not find the gender of @1.=No se pudo encontrar el género de @1.
+@1 prefer gender-neutral pronouns, and @2 as a fallback.=@1 prefiere pronombres de género neutro, y @2 como alternativo
+@1's gender is @2.=El género de @1 es @2.
